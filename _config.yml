@@ -1,6 +1,6 @@
 title:            JKの博客
 description:      "用心:好好看世界"
-logo:             omikron.png
+#logo:             omikron.png
 disqus_shortname: hmfaysal
 # Assign a default image for your site's header and footer
 default_bg:       default_bg1.jpg
@@ -48,21 +48,19 @@ bing_verify:
 # Links to include in footer navigation
 # For external links add external: true
 links:
-  - title: Home
+  - title: 首页
     url: /
     external: false
     icon: home
-  - title: <i class="icon-book"></i> Documentation
+  - title: <i class="icon-book"></i> 文档
     url: /documentation
-  - title: Categories
+  - title: 类别
     url: /categories
-  - title: Tags
+  - title: 标签
     url: /tags
-  - title: Faysal who?
-    url: /hossain-mohd-faysal
 
 # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/New_York
+timezone:    Asia/Shanghai
 future:      true
 highlighter: pygments
 markdown:    kramdown
@@ -88,8 +86,8 @@ kramdown:
 
 prose:
   rooturl: '_posts'
-  siteurl: 'http://hmfaysal.github.io/'
-  relativeLinks: 'http://hmfaysal.github.io/links.jsonp'
+  siteurl: 'http://ljk4160.github.io/'
+  relativeLinks: 'http://ljk4160.github.io/jkblog'
   media: 'images'
   metadata:
     _posts:
