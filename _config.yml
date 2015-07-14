@@ -1,7 +1,7 @@
 title:            JKの博客
 description:      "用心:好好看世界"
 #logo:             omikron.png
-disqus_shortname: hmfaysal
+disqus_shortname: JK
 # Assign a default image for your site's header and footer
 default_bg:       default_bg1.jpg
 search:           true
@@ -23,7 +23,7 @@ url:       		   /jkblog
 # Owner/author information
 owner:
   name:           JK
-  avatar:         hmfaysal.jpg
+  avatar:         JK.jpg
   email:          405901422@qq.com
   # Use the coder's toolbox at http://coderstoolbox.net/string/#!encoding=xml&action=encode&charset=us_ascii to encode your description into XML string
   description:    一个屌丝码农.
